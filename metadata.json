@@ -1,0 +1,6 @@
+{
+  "name": "Our Forever Journey",
+  "description": "An interactive, personalized romantic proposal app with a beautiful photo memory scrapbook, playful love letters, a reason-flower interactive game, and a magical proposal celebration with custom cute animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
